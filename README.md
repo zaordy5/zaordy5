@@ -45,4 +45,6 @@ Expected graduation: August 2027
 
 ## Contact
 
+`email` [dallakian.andrew2@gmail.com](mailto:dallakian.andrew2@gmail.com)  
+`telegram` [@andrew_dallakian](https://t.me/andrew_dallakian)  
 `github` [zaordy5](https://github.com/zaordy5)
