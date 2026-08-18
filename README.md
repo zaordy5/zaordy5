@@ -23,9 +23,9 @@ web          HTML / CSS / JavaScript
 
 ## Projects
 
-### TeamFinder
+### [TeamFinder](https://github.com/zaordy5/team-finder)
 
-Django backend application with PostgreSQL, Docker, ORM-based data management and CI workflows.
+Django web application with PostgreSQL, Docker, ORM-based data management and CI workflows.
 
 `Python` `Django` `PostgreSQL` `Docker`
 
